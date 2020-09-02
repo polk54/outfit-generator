@@ -21,7 +21,7 @@ body{
 
 @media only screen and (max-width: 600px) {
   body{
-    padding: 10px 10px 10px 20px;
+    padding: 10px 10px 10px 10px;
   }
 }
 
@@ -72,15 +72,20 @@ section4{
   }
   section2{
     float: left;
-    margin: 75px 0px 0px 0px;
+    margin: 10px 0px 0px 0px;
+    width: 120%;
   }
   section3{
     float: left;
     margin: 0px 0px 0px 0px;
+    width: 95%;
+
   }
   section4{
     float: left;
     margin: 0px 0px 0px 0px;
+    width: 70%;
+
   }
 }
 
